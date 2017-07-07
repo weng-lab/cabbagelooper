@@ -1,1 +1,1 @@
-This is the repository behind http://cabbagelooper.org/.
+The repository behind http://cabbagelooper.org/.
