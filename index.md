@@ -9,7 +9,7 @@ This database provides access to the cabbage looper genome assembly and annotati
 
 [Contigs](https://github.com/weng-lab/cabbagelooper/releases/download/v1.0-scaffolds-and-contigs/tn1.contigs.fasta.gz)
 
-### Annotation resouce
+### Annotation resource
 [The official gene set v1.0](https://github.com/weng-lab/cabbagelooper/releases/download/v1-annotation/tn1.genes.gff.gz)
 
 [RepeatMasker output](https://github.com/weng-lab/cabbagelooper/releases/download/v1.0-scaffolds-and-contigs/tn1.rmsk_out.gz)
