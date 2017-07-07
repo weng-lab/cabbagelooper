@@ -254,4 +254,4 @@ Small Device Styles
   h5 { font-size: 14px; }
   h6 { font-size: 12px; }
   code, pre { min-width: 320px; max-width: 480px; font-size: 11px; } }
-body, h1, h2, h3, h4, h5 { font-family: 'Roboto', 'Helvetica Neue', sans-serif; letter-spacing: normal; }
+body, h1, h2, h3, h4, h5 { font-family: 'Roboto', 'Helvetica Neue', sans-serif; letter-spacing: normal; font-size: 120%; }
