@@ -1,8 +1,7 @@
 ## About Cabbage Looper Database
 This database provides access to the cabbage looper genome assembly and annotations.
 
-## Resources
-
+## Resources [![Github All Releases](https://img.shields.io/github/downloads/weng-lab/cabbagelooper/total.svg?style=flat-square)](https://github.com/weng-lab/cabbagelooper)
 ### Genome assemblies
 
 [Scaffolds](https://github.com/weng-lab/cabbagelooper/releases/download/v1.0-scaffolds-and-contigs/tn1.scaffolds.fasta.gz)
