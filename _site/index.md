@@ -2,6 +2,7 @@
 This database provides access to the cabbage looper genome assembly and annotations.
 
 ## Resources
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat-square)]()
 
 ### Genome assemblies
 
@@ -42,7 +43,7 @@ Under construction
 
 [FlyBase](http://flybase.org/)
 
-[VectorBase][https://www.vectorbase.org/]
+[VectorBase](https://www.vectorbase.org/)
 
 ### Raw data
 This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank
