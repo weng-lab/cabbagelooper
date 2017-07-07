@@ -1,4 +1,9 @@
-## About Cabbage Looper Database
+---
+---
+
+{% include header.html %}
+
+# About Cabbage Looper Database
 This database provides access to the cabbage looper genome assembly and annotations.
 
 ## Resources
@@ -9,14 +14,16 @@ This database provides access to the cabbage looper genome assembly and annotati
 
 [Contigs](https://github.com/weng-lab/cabbagelooper/releases/download/v1.0-scaffolds-and-contigs/tn1.contigs.fasta.gz)
 
-### Annotation resouce
+### Annotation resource
 [The official gene set v1.0](https://github.com/weng-lab/cabbagelooper/releases/download/v1-annotation/tn1.genes.gff.gz)
+
+[Gene annotation](https://github.com/weng-lab/cabbagelooper/releases/download/v1-annotation/tn1.annotation.txt.gz)
 
 [RepeatMasker output](https://github.com/weng-lab/cabbagelooper/releases/download/v1.0-scaffolds-and-contigs/tn1.rmsk_out.gz)
 
 [Repeat Consensus sequences](https://github.com/weng-lab/cabbagelooper/releases/download/v1.0-scaffolds-and-contigs/tn1.repeatmodeler.fasta.gz)
 
-[TODO microRNA annotation]
+<!---[TODO microRNA annotation]--->
 
 ### piRNA clusters
 [piRNA clusters](https://github.com/weng-lab/cabbagelooper/releases/download/v1-annotation/tn1.piRNAclusters.tar.gz)
