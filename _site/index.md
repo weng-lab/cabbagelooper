@@ -2,7 +2,7 @@
 This database provides access to the cabbage looper genome assembly and annotations.
 
 ## Resources
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat-square)]()
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=flat-square)](https://github.com/weng-lab/cabbagelooper)
 
 ### Genome assemblies
 
