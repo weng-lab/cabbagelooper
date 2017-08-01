@@ -3,7 +3,7 @@
 
 {% include header.html %}
 
-# About Cabbage Looper Database
+# About the Cabbage Looper Database
 This database provides access to the cabbage looper (*Trichoplusia ni*) genome assembly and annotation. [![Github All Releases](https://img.shields.io/github/downloads/weng-lab/cabbagelooper/total.svg?style=flat-square)](https://github.com/weng-lab/cabbagelooper)
 ## Genome assemblies
 The latest cabbage looper genome assembly (tn1) contains 1,031 scaffolds spanning 368.2 Mb. The scaffold N50 is 14.2 Mb, with >90% of the bases in 28 chromosome-length scaffolds. Contig N50 is 621.9 kb. 
