@@ -59,5 +59,7 @@ This Whole Genome Shotgun project has been deposited at DDBJ/ENA/GenBank
 under the accession [NKQN00000000](https://www.ncbi.nlm.nih.gov/genome/?term=NKQN00000000).
 Sequencing data are available through the NCBI Sequence Read Archive under the accession number [PRJNA336361](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA336361).
 
+[Figure source data](https://github.com/weng-lab/cabbagelooper/releases/download/v1-source-data/figure_source_data.zip)
+
 ## Contact us
 Under construction
