@@ -25,6 +25,7 @@ The latest official gene set (OGS v1.0) is based on the tn1 genome assemnbly and
 
 [Repeat Consensus sequences](https://github.com/weng-lab/cabbagelooper/releases/download/v1.0-scaffolds-and-contigs/tn1.repeatmodeler.fasta.gz)
 
+[Genomic variants called using sequencing data from Hi5 cells](https://github.com/weng-lab/cabbagelooper/releases/download/v1-annotation/tn1.Hi5.tetraploid.vcf.gz)
 <!---[TODO microRNA annotation]--->
 
 ## piRNA clusters
@@ -62,4 +63,6 @@ Sequencing data are available through the NCBI Sequence Read Archive under the a
 [Figure source data](https://github.com/weng-lab/cabbagelooper/releases/download/v1-source-data/figure_source_data.zip)
 
 ## Contact us
-Under construction
+*Trichoplusia ni* (Trichoplusia.ni {@} gmail.com)
+
+Yu Fu (Yu.Fu {at} umassmed.edu)
