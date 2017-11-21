@@ -63,6 +63,6 @@ Sequencing data are available through the NCBI Sequence Read Archive under the a
 [Figure source data](https://github.com/weng-lab/cabbagelooper/releases/download/v1-source-data/figure_source_data.zip)
 
 ## Contact us
-*Trichoplusia ni* (Trichoplusia.ni {@} gmail.com)
+*Trichoplusia ni* (Trichoplusia.ni {at} gmail.com)
 
 Yu Fu (Yu.Fu {at} umassmed.edu)
