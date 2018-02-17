@@ -54,11 +54,11 @@ Sequencing data are available through the NCBI Sequence Read Archive under the a
 
 
 ## Related databases
-* [NCBI](http://www.ncbi.nlm.nih.gov/)
+[NCBI](http://www.ncbi.nlm.nih.gov/)
 
-* [Ensembl](http://www.ensembl.org/index.html)
+[Ensembl](http://www.ensembl.org/index.html)
 
-* [SilkDB](http://silkworm.genomics.org.cn/)
+[SilkDB](http://silkworm.genomics.org.cn/)
 
 [KAIKObase](http://sgp.dna.affrc.go.jp/KAIKObase/)
 
